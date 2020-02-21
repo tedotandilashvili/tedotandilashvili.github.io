@@ -1,0 +1,178 @@
+[19-Jul-2019 21:55:21 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[19-Jul-2019 21:55:21 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[01-Aug-2019 16:37:15 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[01-Aug-2019 16:37:15 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[01-Aug-2019 16:38:16 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[01-Aug-2019 16:38:16 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[01-Aug-2019 16:39:16 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[01-Aug-2019 16:39:16 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[01-Aug-2019 16:40:16 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[01-Aug-2019 16:40:16 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[01-Aug-2019 16:41:16 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[01-Aug-2019 16:41:16 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[01-Aug-2019 16:42:16 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[01-Aug-2019 16:42:16 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[01-Aug-2019 16:43:39 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[01-Aug-2019 16:43:39 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[01-Aug-2019 16:44:39 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[01-Aug-2019 16:44:39 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[01-Aug-2019 16:45:50 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[01-Aug-2019 16:45:50 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[01-Aug-2019 16:46:50 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[01-Aug-2019 16:46:50 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[01-Aug-2019 16:47:17 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[01-Aug-2019 16:47:17 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[01-Aug-2019 16:47:22 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[01-Aug-2019 16:47:22 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[01-Aug-2019 16:47:50 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[01-Aug-2019 16:47:50 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[01-Aug-2019 16:48:50 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[01-Aug-2019 16:48:50 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[01-Aug-2019 16:49:50 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[01-Aug-2019 16:49:50 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[01-Aug-2019 16:50:50 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[01-Aug-2019 16:50:50 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[01-Aug-2019 16:57:18 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[01-Aug-2019 16:57:18 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[01-Aug-2019 16:57:23 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[01-Aug-2019 16:57:23 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:19:51 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:19:51 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:19:55 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:19:55 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:20:55 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:20:55 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:23:31 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:23:31 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:24:31 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:24:31 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:27:08 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:27:08 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:28:08 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:28:08 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:29:08 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:29:08 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:29:22 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:29:22 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:30:01 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:30:01 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:30:08 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:30:08 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:31:08 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:31:08 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:31:15 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:31:15 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:32:07 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:32:07 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:32:08 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:32:08 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:33:16 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:33:16 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:33:48 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:33:48 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:47:00 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:47:00 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:48:00 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:48:00 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:52:46 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:52:46 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:53:52 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:53:52 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:54:06 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:54:06 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:54:06 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:54:06 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:54:38 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:54:38 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 14:54:45 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 14:54:45 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 15:09:46 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 15:09:46 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 15:10:46 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 15:10:46 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 15:11:46 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 15:11:46 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 15:12:46 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 15:12:46 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 15:33:32 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 15:33:32 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 15:33:57 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 15:33:57 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 15:34:12 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 15:34:12 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 15:34:14 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 15:34:14 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 15:34:22 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 15:34:22 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 15:34:45 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 15:34:45 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 15:34:48 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 15:34:48 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[04-Sep-2019 15:35:49 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[04-Sep-2019 15:35:49 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[07-Sep-2019 13:22:43 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[07-Sep-2019 13:22:43 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[07-Sep-2019 13:23:25 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[07-Sep-2019 13:23:25 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[07-Sep-2019 13:23:26 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[07-Sep-2019 13:23:26 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[07-Sep-2019 13:34:52 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[07-Sep-2019 13:34:52 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[07-Sep-2019 13:35:07 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[07-Sep-2019 13:35:07 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[07-Sep-2019 13:36:55 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[07-Sep-2019 13:36:55 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[07-Sep-2019 13:38:12 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[07-Sep-2019 13:38:12 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[07-Sep-2019 13:39:12 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[07-Sep-2019 13:39:12 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[07-Sep-2019 13:40:12 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[07-Sep-2019 13:40:12 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[07-Sep-2019 13:44:20 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[07-Sep-2019 13:44:20 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[07-Sep-2019 13:54:11 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[07-Sep-2019 13:54:11 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[07-Sep-2019 13:55:24 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[07-Sep-2019 13:55:24 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[07-Sep-2019 13:56:03 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[07-Sep-2019 13:56:03 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[07-Sep-2019 13:56:32 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[07-Sep-2019 13:56:32 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[07-Sep-2019 13:57:32 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[07-Sep-2019 13:57:32 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[07-Sep-2019 14:05:14 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[07-Sep-2019 14:05:14 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[07-Sep-2019 14:16:43 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[07-Sep-2019 14:16:43 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[07-Sep-2019 14:19:15 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[07-Sep-2019 14:19:15 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[07-Sep-2019 14:32:22 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[07-Sep-2019 14:32:22 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[07-Sep-2019 15:01:12 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[07-Sep-2019 15:01:12 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[07-Sep-2019 15:57:59 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[07-Sep-2019 15:57:59 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[07-Sep-2019 15:58:59 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[07-Sep-2019 15:58:59 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[02-Oct-2019 15:22:35 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/securita/public_html/racia/conn.php on line 7
+[02-Oct-2019 15:22:35 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[06-Nov-2019 13:44:44 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): No route to host in /home/securita/public_html/racia/conn.php on line 7
+[06-Nov-2019 13:44:44 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[06-Nov-2019 13:44:44 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): No route to host in /home/securita/public_html/racia/conn.php on line 7
+[06-Nov-2019 13:44:44 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[06-Nov-2019 13:44:44 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): No route to host in /home/securita/public_html/racia/conn.php on line 7
+[06-Nov-2019 13:44:44 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[06-Nov-2019 13:44:44 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): No route to host in /home/securita/public_html/racia/conn.php on line 7
+[06-Nov-2019 13:44:44 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[06-Nov-2019 13:44:44 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): No route to host in /home/securita/public_html/racia/conn.php on line 7
+[06-Nov-2019 13:44:44 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[06-Nov-2019 13:44:44 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): No route to host in /home/securita/public_html/racia/conn.php on line 7
+[06-Nov-2019 13:44:44 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[06-Nov-2019 13:48:46 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): No route to host in /home/securita/public_html/racia/conn.php on line 7
+[06-Nov-2019 13:48:46 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[03-Jan-2020 19:46:43 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[03-Jan-2020 19:46:43 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[03-Jan-2020 19:47:43 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[03-Jan-2020 19:47:43 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8
+[03-Jan-2020 19:48:43 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/racia/conn.php on line 7
+[03-Jan-2020 19:48:43 Asia/Tbilisi] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/securita/public_html/racia/conn.php on line 8

@@ -1,0 +1,8 @@
+[18-Feb-2020 13:54:29 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/securita/public_html/project/addo/index.php on line 48
+[18-Feb-2020 13:54:29 Asia/Tbilisi] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/securita/public_html/project/addo/index.php on line 55
+[18-Feb-2020 13:55:55 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/project/addo/index.php on line 48
+[18-Feb-2020 13:56:20 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/securita/public_html/project/addo/index.php on line 48
+[18-Feb-2020 13:57:46 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/securita/public_html/project/addo/index.php on line 48
+[18-Feb-2020 13:57:46 Asia/Tbilisi] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/securita/public_html/project/addo/index.php on line 55
+[18-Feb-2020 15:12:58 Asia/Tbilisi] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/securita/public_html/project/addo/index.php on line 48
+[18-Feb-2020 15:12:58 Asia/Tbilisi] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/securita/public_html/project/addo/index.php on line 55

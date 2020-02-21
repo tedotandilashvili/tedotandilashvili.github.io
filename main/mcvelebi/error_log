@@ -1,0 +1,88 @@
+[08-Jan-2020 17:45:00 Asia/Tbilisi] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/securita/public_html/main/mcvelebi/sia.php on line 2
+[08-Jan-2020 17:45:00 Asia/Tbilisi] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/securita/public_html/main/mcvelebi/sia.php on line 2
+[08-Jan-2020 17:45:00 Asia/Tbilisi] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/securita/public_html/main/mcvelebi/sia.php on line 2
+[08-Jan-2020 17:49:39 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected end of file in /home/securita/public_html/main/mcvelebi/sia.php on line 80
+[08-Jan-2020 17:53:11 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected end of file in /home/securita/public_html/main/mcvelebi/sia.php on line 86
+[08-Jan-2020 17:53:12 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected end of file in /home/securita/public_html/main/mcvelebi/sia.php on line 86
+[08-Jan-2020 17:53:46 Asia/Tbilisi] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/securita/public_html/main/mcvelebi/sia.php on line 57
+[08-Jan-2020 17:53:51 Asia/Tbilisi] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/securita/public_html/main/mcvelebi/sia.php on line 57
+[08-Jan-2020 17:54:10 Asia/Tbilisi] PHP Fatal error:  Call to a member function fetch_object() on null in /home/securita/public_html/main/mcvelebi/sia.php on line 55
+[08-Jan-2020 17:55:06 Asia/Tbilisi] PHP Fatal error:  Call to a member function fetch_object() on null in /home/securita/public_html/main/mcvelebi/sia.php on line 55
+[08-Jan-2020 17:55:08 Asia/Tbilisi] PHP Fatal error:  Call to a member function fetch_object() on null in /home/securita/public_html/main/mcvelebi/sia.php on line 55
+[08-Jan-2020 17:56:31 Asia/Tbilisi] PHP Fatal error:  Call to a member function fetch_object() on null in /home/securita/public_html/main/mcvelebi/sia.php on line 56
+[08-Jan-2020 17:57:04 Asia/Tbilisi] PHP Fatal error:  Call to a member function fetch_object() on null in /home/securita/public_html/main/mcvelebi/sia.php on line 56
+[08-Jan-2020 17:57:21 Asia/Tbilisi] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 17:57:21 Asia/Tbilisi] PHP Warning:  include(http://securitas.ge/main/mcvelebi/db.php): failed to open stream: no suitable wrapper could be found in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 17:57:21 Asia/Tbilisi] PHP Warning:  include(): Failed opening 'http://securitas.ge/main/mcvelebi/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 17:57:21 Asia/Tbilisi] PHP Fatal error:  Call to a member function fetch_object() on null in /home/securita/public_html/main/mcvelebi/sia.php on line 56
+[08-Jan-2020 17:57:39 Asia/Tbilisi] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 17:57:39 Asia/Tbilisi] PHP Warning:  include(http://securitas.ge/main/mcvelebi/db.php): failed to open stream: no suitable wrapper could be found in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 17:57:39 Asia/Tbilisi] PHP Warning:  include(): Failed opening 'http://securitas.ge/main/mcvelebi/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 17:57:39 Asia/Tbilisi] PHP Fatal error:  Call to a member function fetch_object() on null in /home/securita/public_html/main/mcvelebi/sia.php on line 56
+[08-Jan-2020 17:57:41 Asia/Tbilisi] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 17:57:41 Asia/Tbilisi] PHP Warning:  include(http://securitas.ge/main/mcvelebi/db.php): failed to open stream: no suitable wrapper could be found in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 17:57:41 Asia/Tbilisi] PHP Warning:  include(): Failed opening 'http://securitas.ge/main/mcvelebi/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 17:57:41 Asia/Tbilisi] PHP Fatal error:  Call to a member function fetch_object() on null in /home/securita/public_html/main/mcvelebi/sia.php on line 56
+[08-Jan-2020 17:58:25 Asia/Tbilisi] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 17:58:25 Asia/Tbilisi] PHP Warning:  include(http://securitas.ge/main/mcvelebi/db.php): failed to open stream: no suitable wrapper could be found in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 17:58:25 Asia/Tbilisi] PHP Warning:  include(): Failed opening 'http://securitas.ge/main/mcvelebi/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 17:58:25 Asia/Tbilisi] PHP Fatal error:  Call to a member function fetch_object() on null in /home/securita/public_html/main/mcvelebi/sia.php on line 56
+[08-Jan-2020 18:01:31 Asia/Tbilisi] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 18:01:31 Asia/Tbilisi] PHP Warning:  include(http://securitas.ge/main/mcvelebi/db.php): failed to open stream: no suitable wrapper could be found in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 18:01:31 Asia/Tbilisi] PHP Warning:  include(): Failed opening 'http://securitas.ge/main/mcvelebi/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 18:01:31 Asia/Tbilisi] PHP Fatal error:  Call to a member function query() on null in /home/securita/public_html/main/mcvelebi/sia.php on line 53
+[08-Jan-2020 18:02:18 Asia/Tbilisi] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 18:02:18 Asia/Tbilisi] PHP Warning:  include(http://securitas.ge/main/mcvelebi/db.php): failed to open stream: no suitable wrapper could be found in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 18:02:18 Asia/Tbilisi] PHP Warning:  include(): Failed opening 'http://securitas.ge/main/mcvelebi/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 18:02:18 Asia/Tbilisi] PHP Fatal error:  Call to a member function query() on null in /home/securita/public_html/main/mcvelebi/sia.php on line 53
+[08-Jan-2020 18:02:20 Asia/Tbilisi] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 18:02:20 Asia/Tbilisi] PHP Warning:  include(http://securitas.ge/main/mcvelebi/db.php): failed to open stream: no suitable wrapper could be found in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 18:02:20 Asia/Tbilisi] PHP Warning:  include(): Failed opening 'http://securitas.ge/main/mcvelebi/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 18:02:20 Asia/Tbilisi] PHP Fatal error:  Call to a member function query() on null in /home/securita/public_html/main/mcvelebi/sia.php on line 53
+[08-Jan-2020 18:02:21 Asia/Tbilisi] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 18:02:21 Asia/Tbilisi] PHP Warning:  include(http://securitas.ge/main/mcvelebi/db.php): failed to open stream: no suitable wrapper could be found in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 18:02:21 Asia/Tbilisi] PHP Warning:  include(): Failed opening 'http://securitas.ge/main/mcvelebi/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 18:02:21 Asia/Tbilisi] PHP Fatal error:  Call to a member function query() on null in /home/securita/public_html/main/mcvelebi/sia.php on line 53
+[08-Jan-2020 18:03:48 Asia/Tbilisi] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 18:03:48 Asia/Tbilisi] PHP Warning:  include(http://securitas.ge/main/mcvelebi/db.php): failed to open stream: no suitable wrapper could be found in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 18:03:48 Asia/Tbilisi] PHP Warning:  include(): Failed opening 'http://securitas.ge/main/mcvelebi/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 18:03:48 Asia/Tbilisi] PHP Fatal error:  Call to a member function query() on null in /home/securita/public_html/main/mcvelebi/sia.php on line 53
+[08-Jan-2020 18:04:07 Asia/Tbilisi] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 18:04:07 Asia/Tbilisi] PHP Warning:  include(http://securitas.ge/main/mcvelebi/db.php): failed to open stream: no suitable wrapper could be found in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 18:04:07 Asia/Tbilisi] PHP Warning:  include(): Failed opening 'http://securitas.ge/main/mcvelebi/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 18:06:09 Asia/Tbilisi] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 18:06:09 Asia/Tbilisi] PHP Warning:  include(http://securitas.ge/main/mcvelebi/db.php): failed to open stream: no suitable wrapper could be found in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 18:06:09 Asia/Tbilisi] PHP Warning:  include(): Failed opening 'http://securitas.ge/main/mcvelebi/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/securita/public_html/main/mcvelebi/sia.php on line 3
+[08-Jan-2020 18:06:09 Asia/Tbilisi] PHP Fatal error:  Call to a member function query() on null in /home/securita/public_html/main/mcvelebi/sia.php on line 53
+[08-Jan-2020 18:41:29 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/securita/public_html/main/mcvelebi/sia.php on line 72
+[08-Jan-2020 18:41:49 Asia/Tbilisi] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/securita/public_html/main/mcvelebi/sia.php on line 69
+[08-Jan-2020 18:41:49 Asia/Tbilisi] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/securita/public_html/main/mcvelebi/sia.php on line 69
+[08-Jan-2020 18:41:49 Asia/Tbilisi] PHP Warning:  mysql_query(): A link to the server could not be established in /home/securita/public_html/main/mcvelebi/sia.php on line 69
+[08-Jan-2020 18:42:04 Asia/Tbilisi] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/securita/public_html/main/mcvelebi/sia.php on line 69
+[08-Jan-2020 18:42:04 Asia/Tbilisi] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/securita/public_html/main/mcvelebi/sia.php on line 69
+[08-Jan-2020 18:42:04 Asia/Tbilisi] PHP Warning:  mysql_query(): A link to the server could not be established in /home/securita/public_html/main/mcvelebi/sia.php on line 69
+[08-Jan-2020 18:42:46 Asia/Tbilisi] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/securita/public_html/main/mcvelebi/sia.php on line 72
+[08-Jan-2020 18:44:49 Asia/Tbilisi] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/securita/public_html/main/mcvelebi/sia.php on line 72
+[09-Jan-2020 00:36:11 Asia/Tbilisi] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/securita/public_html/main/mcvelebi/sia.php on line 4
+[09-Jan-2020 00:36:11 Asia/Tbilisi] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/securita/public_html/main/mcvelebi/sia.php on line 4
+[09-Jan-2020 00:36:11 Asia/Tbilisi] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/securita/public_html/main/mcvelebi/sia.php on line 4
+[09-Jan-2020 00:36:11 Asia/Tbilisi] PHP Fatal error:  Call to a member function query() on null in /home/securita/public_html/main/mcvelebi/sia.php on line 70
+[09-Jan-2020 12:09:41 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '}' in /home/securita/public_html/main/mcvelebi/sia.php on line 92
+[09-Jan-2020 12:09:42 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '}' in /home/securita/public_html/main/mcvelebi/sia.php on line 92
+[09-Jan-2020 12:31:55 Asia/Tbilisi] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/securita/public_html/main/mcvelebi/sia.php on line 51
+[09-Jan-2020 12:31:55 Asia/Tbilisi] PHP Warning:  include(http://securitas.ge/main/top.php): failed to open stream: no suitable wrapper could be found in /home/securita/public_html/main/mcvelebi/sia.php on line 51
+[09-Jan-2020 12:31:55 Asia/Tbilisi] PHP Warning:  include(): Failed opening 'http://securitas.ge/main/top.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/securita/public_html/main/mcvelebi/sia.php on line 51
+[09-Jan-2020 12:32:27 Asia/Tbilisi] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/securita/public_html/main/mcvelebi/sia.php on line 51
+[09-Jan-2020 12:32:27 Asia/Tbilisi] PHP Warning:  include(http://securitas.ge/main/top.php): failed to open stream: no suitable wrapper could be found in /home/securita/public_html/main/mcvelebi/sia.php on line 51
+[09-Jan-2020 12:32:27 Asia/Tbilisi] PHP Warning:  include(): Failed opening 'http://securitas.ge/main/top.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/securita/public_html/main/mcvelebi/sia.php on line 51
+[09-Jan-2020 12:32:32 Asia/Tbilisi] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/securita/public_html/main/mcvelebi/sia.php on line 51
+[09-Jan-2020 12:32:32 Asia/Tbilisi] PHP Warning:  include(http://securitas.ge/main/top.php): failed to open stream: no suitable wrapper could be found in /home/securita/public_html/main/mcvelebi/sia.php on line 51
+[09-Jan-2020 12:32:32 Asia/Tbilisi] PHP Warning:  include(): Failed opening 'http://securitas.ge/main/top.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/securita/public_html/main/mcvelebi/sia.php on line 51
+[09-Jan-2020 12:38:11 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '}' in /home/securita/public_html/main/mcvelebi/sia.php on line 91
+[09-Jan-2020 12:38:19 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '}' in /home/securita/public_html/main/mcvelebi/sia.php on line 92
+[09-Jan-2020 12:38:20 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '}' in /home/securita/public_html/main/mcvelebi/sia.php on line 92
+[09-Jan-2020 12:39:30 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '}' in /home/securita/public_html/main/mcvelebi/sia.php on line 93
+[09-Jan-2020 12:40:40 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '}' in /home/securita/public_html/main/mcvelebi/sia.php on line 92
+[09-Jan-2020 12:40:41 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '}' in /home/securita/public_html/main/mcvelebi/sia.php on line 92
+[09-Jan-2020 12:43:30 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '}' in /home/securita/public_html/main/mcvelebi/sia.php on line 93
+[09-Jan-2020 12:43:31 Asia/Tbilisi] PHP Parse error:  syntax error, unexpected '}' in /home/securita/public_html/main/mcvelebi/sia.php on line 93
